@@ -37,8 +37,8 @@ Proyek ini dibuat mengikuti tutorial dari Dea Aprizal:
 
 1. Clone repositori ini atau download ZIP-nya.
 2. Jalankan XAMPP dan aktifkan Apache & MySQL.
-3. Buat database di phpMyAdmin dengan nama `login_php` (atau sesuai dengan file `koneksi.php`).
-4. Import file SQL untuk membuat tabel `users`.
+3. Buat database di phpMyAdmin dengan nama `buku_tamu` (sesuaikan dengan file `koneksi.php`).
+4. Buat tabel `user` atau import user.sql di database anda.
 5. Jalankan melalui browser dengan alamat `http://localhost/nama-folder/login.php`.
 
 ## 🙏 Kredit
