@@ -9,7 +9,7 @@ Membuat sistem login dasar menggunakan PHP dan MySQL yang dapat:
 - Memvalidasi data login melalui form
 - Mengarahkan user ke halaman dashboard saat berhasil login
 
-Cocok untuk pemula yang ingin belajar cara membuat sistem otentikasi sederhana menggunakan PHP Native tanpa framework.
+Cocok untuk pemula yang ingin belajar cara membuat sistem otentikasi sederhana menggunakan PHP Native tanpa framework.seperti saya hehehe
 
 ## 🧰 Teknologi yang Digunakan
 
@@ -23,7 +23,6 @@ Cocok untuk pemula yang ingin belajar cara membuat sistem otentikasi sederhana m
 Proyek ini dibuat mengikuti tutorial dari Dea Aprizal:
 
 - YouTube Tutorial: [https://youtu.be/Ak6VTSekGP4?si=qhJHmLMTezB4-hAt](https://youtu.be/Ak6VTSekGP4?si=qhJHmLMTezB4-hAt)
-- GitHub Dea Aprizal: [https://github.com/daaanz25/login-php](https://github.com/daaanz25/login-php)
 
 ## 📁 Struktur Folder
 /login-php
