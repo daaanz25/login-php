@@ -26,11 +26,16 @@ Proyek ini dibuat mengikuti tutorial dari Dea Aprizal:
 
 ## 📁 Struktur Folder
 /login-php
-├── config/ # File koneksi ke database (koneksi.php)
-├── login.php # Halaman form login
-├── register.php # Halaman pendaftaran user
-├── dashboard.php # Halaman setelah berhasil login
-├── logout.php # Untuk keluar dari sesi login
+├── 
+config/ # File koneksi ke database (koneksi.php)
+├──
+login.php # Halaman form login
+├──
+register.php # Halaman pendaftaran user
+├── 
+dashboard.php # Halaman setelah berhasil login
+├──
+logout.php # Untuk keluar dari sesi login
 └── style.css # Tampilan dasar form login
 ## ⚙️ Cara Menjalankan
 
